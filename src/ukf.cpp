@@ -2,8 +2,6 @@
 #include "Eigen/Dense"
 #include <iostream>
 
-#pragma G++ diagnostic ignored "-Wmisleading-indentation"
-
 
 using namespace std;
 using Eigen::MatrixXd;
